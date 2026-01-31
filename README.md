@@ -78,24 +78,6 @@ I enjoy building skills across domains and continuously upgrading how I think, c
 
 <p align="center">⋯ ⋯ ⋯</p>
 
-<h2>📅 2026 Consistency Board</h2>
-<p><i>Showing up matters more than being perfect</i></p>
-
-- [ ] Day 1  - [ ] Day 11 - [ ] Day 21  
-- [ ] Day 2  - [ ] Day 12 - [ ] Day 22  
-- [ ] Day 3  - [ ] Day 13 - [ ] Day 23  
-- [ ] Day 4  - [ ] Day 14 - [ ] Day 24  
-- [ ] Day 5  - [ ] Day 15 - [ ] Day 25  
-- [ ] Day 6  - [ ] Day 16 - [ ] Day 26  
-- [ ] Day 7  - [ ] Day 17 - [ ] Day 27  
-- [ ] Day 8  - [ ] Day 18 - [ ] Day 28  
-- [ ] Day 9  - [ ] Day 19 - [ ] Day 29  
-- [ ] Day 10 - [ ] Day 20 - [ ] Day 30  
-
-<p><i>One tick a day. That’s it.</i></p>
-
-<p align="center">⋯ ⋯ ⋯</p>
-
 <h2>🛠️ Things I Build With</h2>
 <p><i>Tools, languages, and platforms I enjoy working with</i></p>
 
